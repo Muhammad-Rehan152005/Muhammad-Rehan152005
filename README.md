@@ -88,7 +88,7 @@
 <!-- Stats + top languages side by side -->
 <p align="center">
   <img
-    src="https://YOUR_VERCEL_URL/api?username=Muhammad-Rehan152005&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&bg_color=0A101F&hide_rank=true&count_private=true"
+    src="https://github-readme-stats-virid-nine-64.vercel.app/api?username=Muhammad-Rehan152005&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&bg_color=0A101F&hide_rank=true&count_private=true"
     alt="GitHub Stats"
     width="49%"
   />
@@ -96,7 +96,7 @@
        for newer accounts (a repo with 0 stars but 1000 commits ranks poorly).
        Hiding it keeps the focus on actual activity metrics. -->
   <img
-    src="https://YOUR_VERCEL_URL/api/top-langs/?username=Muhammad-Rehan152005&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E2E8F0&bg_color=0A101F&langs_count=8"
+    src="https://github-readme-stats-virid-nine-64.vercel.app/api/top-langs/?username=Muhammad-Rehan152005&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=E2E8F0&bg_color=0A101F&langs_count=8"
     alt="Top Languages"
     width="49%"
   />
