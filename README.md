@@ -110,7 +110,7 @@
   successfully at least once and the "output" branch exists.
   The output branch does not exist before the Action runs green.
 -->
-<!--
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -126,7 +126,6 @@
     width="100%"
   >
 </picture>
--->
 
 <br/>
 
